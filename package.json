@@ -1,0 +1,14 @@
+{
+  "name": "FT-serv",
+  "version": "0.1.0",
+  "description": "Router for FT",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pavel Popov",
+  "license": "ISC",
+  "dependencies": {
+    "console-lt": "^1.1.0"
+  }
+}
